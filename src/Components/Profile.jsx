@@ -32,10 +32,18 @@ const Profile = () => {
                     <h5>Instagram: joelostky</h5>
                     <br></br>
                     <br></br>
-                    <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">My Portofolio:</h4>
-                    <h5>-</h5>
-                    <h5>-</h5>
-                    <h5>-</h5>
+                    <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Soft skills:</h4>
+                    <h5>Komunikasi Efektif</h5>
+                    <h5>Kerja Tim & Kolaborasi Dalam Proyek</h5>
+                    <h5>Pemecahan Masalah & Debugging</h5>
+                    <h5>Ketekunan dalam Menyelesaikan Masalah</h5>
+                    <br></br>
+                    <br></br>
+                    <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Hard skills:</h4>
+                    <h5>Pengembangan Web: (HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS)</h5>
+                    <h5>Bahasa Pemrograman: JavaScript (React, Node.js)</h5>
+                    <h5>Database: MySQL, Laravel</h5>
+                    <h5>Version Control: Git, GitHub</h5>
                 </div>
             </div>
             <div className="flex space x-4">
