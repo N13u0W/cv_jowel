@@ -53,6 +53,15 @@ const Profile = () => {
                 <img src={reactjs} alt="Logo" className="rounded-full h-20 w-24" />
                 <img src={javascript} alt="Logo" className="rounded-full h-20 w-26" />
             </div>
+
+            <br></br>
+            <br></br>
+
+            <div className="coloumn py-4 sm:text-center md:text-left">
+                    <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">My Portofolio:</h4>
+                    
+                </div>
+
         </Card>
         
     )
